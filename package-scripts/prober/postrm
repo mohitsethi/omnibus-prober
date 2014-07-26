@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary prober removal steps
+# after package is uninstalled.
+#
+
+echo "prober has been uninstalled!"
+
+exit 0
